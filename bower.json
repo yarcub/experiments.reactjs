@@ -1,0 +1,29 @@
+{
+  "name": "experiments-react",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yarcub/experiments.reactjs",
+  "description": "React.js learning experiences",
+  "main": "./public/index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "react.js",
+    "learning"
+  ],
+  "authors": [
+    "nuno.sp.rosa@gmail.com"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.10.0"
+  }
+}
